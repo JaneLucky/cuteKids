@@ -1,0 +1,5 @@
+<!--pages/common/search/search.wxml-->
+<view class='container-item'>
+  <input type='text' placeholder='搜索你想要的商品' placeholder-class="placeholderStyle" placeholder-style="background-image: url('/pages/img/search.png') ;"></input>
+</view>
+<image url='http://127.0.0.1:3000/search.png'></image>

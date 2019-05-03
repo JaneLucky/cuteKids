@@ -1,0 +1,20 @@
+/* pages/common/search/search.wxss */
+.container-item{
+  background: #F791CD;
+  padding: 0 0 20rpx 0;
+}
+.container-item input{
+  width: 94%;
+  margin: 0 auto;
+  border-radius: 40rpx;
+  background: #fff;
+  text-align: center;
+  font-size: 30rpx;
+}
+.container-item  .placeholderStyle{
+  color: #ccc;
+  font-size: 20rpx;
+  background-repeat: no-repeat;
+  background-size: 26rpx;
+  background-position: 35% center ;
+}

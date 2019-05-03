@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/common/search/search",
+    "pages/common/list/list",
+    "pages/view/home/home",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/view/category/category",
+    "pages/view/cart/cart",
+    "pages/view/me/me"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F791CD",
+    "navigationBarTitleText": "CuteKids",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "color": "#8a8a8a",
+    "selectedColor": "#F791CD",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/view/home/home",
+        "text": "首页",
+        "iconPath": "pages/img/home.png",
+        "selectedIconPath": "pages/img/home_active.png"
+      },
+      {
+        "pagePath": "pages/view/category/category",
+        "text": "分类",
+        "iconPath": "pages/img/category.png",
+        "selectedIconPath": "pages/img/category_active.png"
+      },
+      {
+        "pagePath": "pages/view/cart/cart",
+        "text": "购物车",
+        "iconPath": "pages/img/cart.png",
+        "selectedIconPath": "pages/img/cart_active.png"
+      },
+      {
+        "pagePath": "pages/view/me/me",
+        "text": "我的",
+        "iconPath": "pages/img/profile.png",
+        "selectedIconPath": "pages/img/me_active.png"
+      }
+    ]
+  },
+  "debug": true,
+  "navigateToMiniProgramAppIdList": [
+    "wxe5f52902cf4de896"
+  ]
+}

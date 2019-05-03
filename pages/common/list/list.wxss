@@ -1,0 +1,39 @@
+body,input,button,textarea{
+  font: 12px/1.5 "Microsoft Yahei",tahoma,arial,"Hiragino Sans GB";
+}
+.container-list{
+  background: #eee;
+  font-family: "Microsoft Yahei";
+  font-size: 25rpx;
+}
+.list{
+  display: flex;
+  justify-content: space-around;
+  width: 94%;
+  margin: 20rpx auto;
+  flex-wrap: nowrap;
+  height: 150rpx;
+  background: #fff;
+  border-radius: 20rpx;
+}
+.list .list-item navigator{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.list .list-item {
+  width: 25%;
+  margin: 0 auto;
+  padding: 30rpx 0 20rpx 0;
+}
+.list .list-item image{
+  width: 45%;
+  height: 60%;
+  display: block;
+  margin: 0 auto;
+}
+.list .list-item text{
+  text-align: center;
+  width: 100%;
+  display: block;
+}

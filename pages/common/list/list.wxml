@@ -1,0 +1,30 @@
+<!--pages/common/list/list.wxml-->
+<view class='container-list'>
+  <!-- 列表 -->
+  <view class='list'>
+    <view class='list-item'>
+      <navigator hover-class="none">
+        <image src='/pages/img/cloth.png' mode='aspectFit'></image>
+        <text>服装</text>
+      </navigator>
+    </view>
+    <view class='list-item'>
+      <navigator hover-class="none">
+        <image src='/pages/img/shoes.png' mode='aspectFit'></image>
+        <text>鞋袜</text>
+      </navigator>
+    </view>
+    <view class='list-item'>
+      <navigator hover-class="none">
+        <image src='/pages/img/new.png' mode='aspectFit'></image>
+        <text>新品</text>
+      </navigator>
+    </view>
+    <view class='list-item'>
+      <navigator hover-class="none">
+        <image src='/pages/img/coupon.png' mode='aspectFit'></image>
+        <text>优惠券</text>
+      </navigator>
+    </view>
+  </view>
+</view>
