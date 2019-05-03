@@ -1,0 +1,54 @@
+.middleTitle{
+  width: 100%;
+  text-align: left;
+  color: #333;
+  padding: 0 0 0 3%;
+  height: 50rpx;
+  box-sizing: border-box;
+  font-size: 34rpx;
+
+}
+.middleTitle image{
+  width: 40rpx;
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.middleItem{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 94%;
+  margin: 0 auto;
+}
+.middleItem view{
+  width: 48%;
+  height: 400rpx;
+  padding: 20rpx 0;
+}
+.middleItem view navigator{
+  display: block;
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 20rpx 0;
+  box-sizing: border-box;
+  border-radius: 20rpx;
+}
+.middleItem view navigator image{
+  display: block;
+  width: 90%;
+  height: 50%;
+  margin: 0 auto;
+}
+.middleItem view navigator text{
+  padding: 20rpx 20rpx 0 20rpx;
+  display: block;
+}
+.middleItem view navigator .itemTitle{
+  font-size: 28rpx !important;
+}
+.middleItem view navigator .price{
+  font-size: 30rpx;
+  color: red;
+}

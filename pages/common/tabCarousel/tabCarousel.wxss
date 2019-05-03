@@ -1,0 +1,46 @@
+.title{
+  background: #fff;
+  width: 100%;
+  text-align: center;
+  color: #333;
+}
+.tabCarousel{
+  width: 300%;
+  margin: 0 auto 20rpx auto;
+  background: #fff;
+  padding: 0 0 30rpx 0;
+}
+.tabCarousel view{
+  float: left;
+  width: 10%;
+  height: 240rpx;
+  margin: 0 auto 20rpx auto;
+}
+.tabCarousel view navigator{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 260rpx;
+}
+.tabCarousel view image{
+  display: block;
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+}
+.tabCarousel view navigator text{
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  font-family: "Microsoft Yahei";
+  font-size: 25rpx;
+}
+.tabCarousel view navigator text:last-child{
+  color: red;
+}
+
+.clearFlex::after{
+  content: "";
+  display: block;
+  clear: both;
+}

@@ -5,6 +5,7 @@ body,input,button,textarea{
   background: #eee;
   font-family: "Microsoft Yahei";
   font-size: 25rpx;
+  margin: 20rpx auto;
 }
 .list{
   display: flex;

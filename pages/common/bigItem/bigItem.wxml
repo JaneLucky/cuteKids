@@ -1,0 +1,28 @@
+
+  <view class='bigTitle'>
+    <image src='/pages/img/offer.png' mode='aspectFit'></image> 今日特价
+  </view>
+  <view class='item'>
+    <navigator class='clearFlex'>
+      <view>
+        <image src='/pages/img/img03.jpg' mode='aspectFit'></image>
+      </view>
+      <view>
+        <text>御泥坊男士洗面奶祛痘控油收缩毛孔补水洁面乳护肤去黑头深层清洁</text>
+        <text>已售出1232件</text>
+        <text>$19.9</text>
+      </view>
+    </navigator>
+  </view>
+  <view class='item'>
+    <navigator class='clearFlex'>
+      <view>
+        <image src='/pages/img/img03.jpg' mode='aspectFit'></image>
+      </view>
+      <view>
+        <text>御泥坊男士洗面奶祛痘控油收缩毛孔补水洁面乳护肤去黑头深层清洁</text>
+        <text>已售出1232件</text>
+        <text>$19.9</text>
+      </view>
+    </navigator>
+  </view>

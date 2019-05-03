@@ -1,0 +1,20 @@
+
+<view class='middleTitle'>
+  <image src='/pages/img/like.png' mode='aspectFit'></image> 猜你喜欢
+</view>
+<view class='middleItem'>
+  <view>
+    <navigator>
+        <image src='/pages/img/img02.jpg' mode='aspectFit'></image>
+        <text class='itemTitle'>御泥坊男士洗面奶祛痘控油收缩毛孔补水洁面</text>
+        <text class='price'>$187.00</text>
+    </navigator>
+  </view>
+  <view>
+    <navigator>
+        <image src='/pages/img/img02.jpg' mode='aspectFit'></image>
+        <text class='itemTitle'>御泥坊男士洗面奶祛痘控油收缩毛孔补水洁面</text>
+        <text class='price'>$187.00</text>
+    </navigator>
+  </view>
+</view>

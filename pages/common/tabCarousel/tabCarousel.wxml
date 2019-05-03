@@ -1,0 +1,45 @@
+  <view class='title'>爆款抢购</view>
+  <view class='tabCarousel clearFlex'>
+    <view>
+      <navigator hover-class="none">
+        <image src='/pages/img/img01.jpg' mode='aspectFit'></image>
+        <text>安尔乐纸尿裤</text>
+        <text>$178.00</text>
+      </navigator>  
+    </view>
+    <view>
+      <navigator hover-class="none">
+        <image src='/pages/img/img02.jpg' mode='aspectFit'></image>
+        <text>安尔乐纸尿裤</text>
+        <text>$178.00</text>
+      </navigator>  
+    </view>
+    <view>
+      <navigator hover-class="none">
+        <image src='/pages/img/img03.jpg' mode='aspectFit'></image>
+        <text>安尔乐纸尿裤</text>
+        <text>$178.00</text>
+      </navigator>  
+    </view>
+    <view>
+      <navigator hover-class="none">
+        <image src='/pages/img/img01.jpg' mode='aspectFit'></image>
+        <text>安尔乐纸尿裤</text>
+        <text>$178.00</text>
+      </navigator>  
+    </view>
+    <view>
+      <navigator hover-class="none">
+        <image src='/pages/img/img02.jpg' mode='aspectFit'></image>
+        <text>安尔乐纸尿裤</text>
+        <text>$178.00</text>
+      </navigator>  
+    </view>
+    <view>
+      <navigator hover-class="none">
+        <image src='/pages/img/img03.jpg' mode='aspectFit'></image>
+        <text>安尔乐纸尿裤</text>
+        <text>$178.00</text>
+      </navigator>  
+    </view>
+  </view>

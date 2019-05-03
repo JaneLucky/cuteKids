@@ -1,0 +1,14 @@
+swiper{
+  width: 94%;
+  margin: 20rpx auto;
+}
+swiper-item navigator{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+swiper-item navigator image{
+  height: 100%;
+  width: 100%;
+  border-radius: 30rpx;
+}

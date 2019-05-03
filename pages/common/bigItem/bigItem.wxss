@@ -1,0 +1,68 @@
+.bigTitle{
+  width: 100%;
+  text-align: left;
+  color: #333;
+  padding: 0 0 0 3%;
+  height: 50rpx;
+  box-sizing: border-box;
+  font-size: 34rpx;
+
+}
+.bigTitle image{
+  width: 40rpx;
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.item{
+  width: 94%;
+  background: #fff;
+  border-radius: 20rpx;
+  margin: 10rpx auto 20rpx auto;
+  padding: 10rpx;
+  height: 220rpx;
+  box-sizing: border-box;
+}
+.item navigator{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.item navigator view{
+  float: left;
+  height: 100%;
+}
+.item navigator view image{
+  display: block;
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
+.item navigator view:first-child{
+  width: 40%;
+}
+.item navigator view:last-child{
+  width: 60%;
+  box-sizing: border-box;
+  padding: 20rpx 0 0 0;
+}
+.item navigator view text{
+  display: block;
+  padding: 10rpx 20rpx 0 0;
+}
+.item navigator view text:first-child{
+  font-size: 28rpx;
+}
+.item navigator view text:nth-child(2){
+  font-size: 24rpx;
+  color: #888;
+}
+.item navigator view text:last-child{
+  font-size: 30rpx;
+  color: red;
+}
+.clearFlex::after{
+  content: "";
+  display: block;
+  clear: both;
+}
