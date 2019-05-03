@@ -1,2 +1,18 @@
-<!--pages/view/home/home.wxml-->
-<text>pages/view/home/home.wxml</text>
+<view class='container'>
+  <!-- 搜索框组件 -->
+  <search></search>
+  <!-- 轮播图标签 -->
+  <carousel></carousel>
+  <!-- icon列表 -->
+  <iconList></iconList>
+  <!-- 爆款抢购列表 -->
+  <tabCarousel></tabCarousel>
+  <!-- 今日特价 -->
+  <bigItem></bigItem>
+  <!-- 猜你喜欢 -->
+  <middleItem></middleItem>
+
+
+
+
+</view>

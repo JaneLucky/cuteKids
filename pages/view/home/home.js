@@ -1,4 +1,5 @@
 // pages/view/home/home.js
+// import search from "../../common/search/search";
 Page({
 
   /**

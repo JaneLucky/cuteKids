@@ -1,3 +1,10 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "search": "../../common/search/search",
+    "iconList":"../../common/list/list",
+    "carousel": "../../common/carousel/carousel",
+    "tabCarousel": "../../common/tabCarousel/tabCarousel",
+    "bigItem": "../../common/bigItem/bigItem",
+    "middleItem": "../../common/middleItem/middleItem"
+  }
 }
